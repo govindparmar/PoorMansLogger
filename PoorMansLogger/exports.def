@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+	IsLogOpened
+	InitializeLog
+	CloseLog
+	WriteLogEntry
